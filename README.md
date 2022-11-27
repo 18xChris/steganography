@@ -6,4 +6,5 @@ This program takes in input a phrase and every letter of the phrase (codified in
 The code is commented so you can understand what I have done.\
 There is also another function that allow you to read a file that has been written with the same algorithm described in the file.\
 I use the images module (MIT License) and the png module (this is written by my programming university teacher Andrea Sterbini), that allow us to read a *.png* image as a list of lists and to save a list of lists as an image. \
+I put a .png image so you can practice using it, but the higher is the quality of the image the more the program works better, because will be difficult to note the color of the pixels that are changed. \
 If there are problems contact me, tnx ^^.
